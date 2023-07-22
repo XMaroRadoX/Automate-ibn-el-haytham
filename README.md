@@ -2,11 +2,9 @@
 
 Every Semester there is chaos in Alexandria University in the course registration process, and many students are left out of  some courses because they couldn't click fast enough as their fellow students.Want to escape from this chaos and give yourself the ease of mind of not being worried that you won't register with your friends.
 
+Introducing Ibn-ElHaytham Registration Bot your gateway to a hassle free registration process just tell it what courses you want and run it. It will work until you sucessfully managed to register. It streamlines the entire process and ensures you secure your desired courses without manual intervention. :robot_face:
 ## Table of Contents :bookmark_tabs:
 
-- [Ibn-ElHaytham Registration Bot :robot:](#ibn-elhaytham-registration-bot-robot)
-  - [Table of Contents :bookmark\_tabs:](#table-of-contents-bookmark_tabs)
-  - [Introduction :clipboard:](#introduction-clipboard)
   - [Features :sparkles:](#features-sparkles)
   - [Demo 📸](#demo-)
   - [Installation :computer:](#installation-computer)
@@ -15,10 +13,7 @@ Every Semester there is chaos in Alexandria University in the course registratio
   - [Contributing :handshake:](#contributing-handshake)
   - [License :page\_facing\_up:](#license-page_facing_up)
 
-## Introduction :clipboard:
 
-
-Introducing Ibn-ElHaytham Registration Bot your gateway to a hassle free registration process just tell it what courses you want and run it. It will work until you sucessfully managed to register. It streamlines the entire process and ensures you secure your desired courses without manual intervention. :robot_face:
 
 ## Features :sparkles:
 
