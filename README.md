@@ -33,7 +33,6 @@ Introducing Ibn-ElHaytham Registration Bot your gateway to a hassle free registr
 <img src="screenshots/gui.png" align="center">
 <img src="screenshots/demo.gif" height=300px>
 </p>  
-<div align="center">
 
 ## Installation :computer:
 
