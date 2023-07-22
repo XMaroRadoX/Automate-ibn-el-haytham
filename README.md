@@ -25,8 +25,8 @@ Introducing Ibn-ElHaytham Registration Bot your gateway to a hassle free registr
 
 ## Demo 📸
 <p align="center" width="100%">
-<img src="screenshots/gui.png" align="center">
-<img src="screenshots/demo.gif" height=300px>
+<img src="screenshots/gui.png" align="center" height=400px >
+<img src="screenshots/demo.gif" height=600px>
 </p>  
 
 ## Installation :computer:
