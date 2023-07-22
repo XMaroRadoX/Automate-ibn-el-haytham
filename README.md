@@ -29,9 +29,11 @@ Introducing Ibn-ElHaytham Registration Bot your gateway to a hassle free registr
 - **Error Handling:** Remember the famous "لم يبدأ التسجيل" it handles it gracefully ensuring it will pass it first  :exclamation:
 
 ## Demo 📸
+<p align="center" width="100%">
 <img src="screenshots/gui.png" align="center">
-![video](screenshots/demo.gif)
-
+<img src="screenshots/demo.gif" height=300px>
+</p>  
+<div align="center">
 
 ## Installation :computer:
 
